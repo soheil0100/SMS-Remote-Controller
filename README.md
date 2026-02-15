@@ -101,7 +101,11 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
+## 👥 Authors
 
-Developed by Soheil Ahmadi  
+Developed collaboratively by:
+
+- Soheil Ahmadi
+- Omid Menbari
+  
 Open-source embedded system project.
