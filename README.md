@@ -3,7 +3,7 @@
 A GSM-based remote control system developed using Arduino.  
 The system allows users to control electrical devices remotely via SMS commands.
 
----
+--- 
 
 ## Overview
 
